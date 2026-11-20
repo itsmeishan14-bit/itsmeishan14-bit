@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/itsmeishan14-bit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Development+Learner+(MERN);Cybersecurity+%2B+AI+Enthusiast;CodeChef+Problem+Solver;Building+projects%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Development+Learner+(MERN);Cybersecurity+%2B+AI+Enthusiast;Building+projects%2C+one+commit+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,9 +11,6 @@
   <a href="https://github.com/itsmeishan14-bit?tab=followers">
     <img src="https://img.shields.io/github/followers/itsmeishan14-bit?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   </a>
-  <a href="https://www.codechef.com/users/band_mirage_75">
-    <img src="https://img.shields.io/badge/CodeChef-band__mirage__75-brown?style=flat&logo=codechef" alt="CodeChef" />
-  </a>
 </p>
 
 ## 🙋 About Me
@@ -21,7 +18,6 @@
 - 🎓 Computer Science Engineering student and beginner developer who loves turning ideas into working projects
 - 💻 Currently learning **full-stack development with the MERN stack** (MongoDB, Express, React, Node.js)
 - 🔐 Interested in **Cybersecurity, AI, and Web Development**
-- 🧩 Problem solving on **CodeChef** — 40+ problems solved across HTML, React, Node.js and MERN projects
 - 🚀 Recent builds: **Nexora** (Kotlin), an **AI Predictive Maintenance** system, and a **Blockchain-based Secure IoT Healthcare** monitoring system
 - ⚡ Fun fact: I learn best by building — every repo here started as a "let me try this" idea
 
@@ -78,9 +74,6 @@
 <p align="center">
   <a href="https://github.com/itsmeishan14-bit">
     <img src="https://img.shields.io/badge/GitHub-itsmeishan14--bit-181717?style=flat&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.codechef.com/users/band_mirage_75">
-    <img src="https://img.shields.io/badge/CodeChef-band__mirage__75-brown?style=flat&logo=codechef" alt="CodeChef" />
   </a>
 </p>
 
